@@ -25,6 +25,17 @@ Star, send pull requests...
 
 - [Determining compatibility](https://towardsdatascience.com/determining-compatibility-b952d941c22a)
 
+## Images
+
+### Vectorization
+
+- [Extract a feature vector for any image with PyTorch](https://becominghuman.ai/extract-a-feature-vector-for-any-image-with-pytorch-9717561d1d4c)
+
+### Perceptual image hashes
+
+- [Detecting Image Duplicates at OLX Scale](https://tech.olx.com/detecting-image-duplicates-at-olx-scale-7f59e4b6aef4)
+
+
 ## Other
 
 - [Learn How a Knowledge Graph Can Improve Your Online Shopping Experience](https://www.alibabacloud.com/blog/learn-how-a-knowledge-graph-can-improve-your-online-shopping-experience_595668)
