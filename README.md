@@ -1,4 +1,6 @@
-# awesome-e-commerce
+# Awesome e-Commerce
+
+Collection of the links, dedicated to various eCommerce-specific data processing tasks.
 
 ## Product Attributes Extraction
 
