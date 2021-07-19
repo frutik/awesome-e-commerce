@@ -8,6 +8,8 @@ Star, send pull requests...
 
 - [Multimodal Joint Attribute Prediction and Value Extraction for E-commerce Product](https://arxiv.org/pdf/2009.07162v1.pdf)
 - [Learning to Extract Attribute Value from Product via Question Answering: A Multi-task Approach](https://dl.acm.org/doi/pdf/10.1145/3394486.3403047)
+- [Unsupervised Attribute Extraction for Online Listings](https://medium.com/prosus-ai-tech-blog/unsupervised-attribute-extraction-for-online-listings-41baa5d2270e)
+
 
 ## Products Classification and Categorization
 
