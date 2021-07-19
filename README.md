@@ -20,6 +20,7 @@ Star, send pull requests...
 
 - [Product Matching in eCommerce using deep learning](https://medium.com/walmartglobaltech/product-matching-in-ecommerce-4f19b6aebaca)
 - [Detecting Image Duplicates at OLX Scale](https://tech.olx.com/detecting-image-duplicates-at-olx-scale-7f59e4b6aef4)
+- [Improving automatic product classification for e-Commerce with image recognition](https://machine-learning-company.nl/en/technical/improving-automatic-product-classification-for-e-commerce-with-image-recognition/)
 
 ## Products compatibility
 
@@ -30,6 +31,7 @@ Star, send pull requests...
 ### Vectorization
 
 - [Extract a feature vector for any image with PyTorch](https://becominghuman.ai/extract-a-feature-vector-for-any-image-with-pytorch-9717561d1d4c)
+- [Similar Images Recommendations using FastAi and Annoy](https://towardsdatascience.com/similar-images-recommendations-using-fastai-and-annoy-16d6ceb3b809)
 
 ### Perceptual image hashes
 
