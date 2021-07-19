@@ -2,7 +2,7 @@
 
 Collection of the links, dedicated to various eCommerce-specific data processing tasks.
 
-## Product Attributes Extraction
+## Products Attributes Extraction
 
 - [Multimodal Joint Attribute Prediction and Value Extraction for E-commerce Product](https://arxiv.org/pdf/2009.07162v1.pdf)
 - [Learning to Extract Attribute Value from Product via Question Answering: A Multi-task Approach](https://dl.acm.org/doi/pdf/10.1145/3394486.3403047)
