@@ -2,6 +2,8 @@
 
 Collection of the links, dedicated to various eCommerce-specific data processing tasks.
 
+Star, send pull requests...
+
 ## Products Attributes Extraction
 
 - [Multimodal Joint Attribute Prediction and Value Extraction for E-commerce Product](https://arxiv.org/pdf/2009.07162v1.pdf)
