@@ -43,3 +43,4 @@ Star, send pull requests...
 ## Other
 
 - [Learn How a Knowledge Graph Can Improve Your Online Shopping Experience](https://www.alibabacloud.com/blog/learn-how-a-knowledge-graph-can-improve-your-online-shopping-experience_595668)
+- [A map of bandits for e-commerce](https://www.amazon.science/publications/a-map-of-bandits-for-e-commerce)
