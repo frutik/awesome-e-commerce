@@ -39,6 +39,9 @@ Star, send pull requests...
 
 - [Detecting Image Duplicates at OLX Scale](https://tech.olx.com/detecting-image-duplicates-at-olx-scale-7f59e4b6aef4)
 
+## Summarisation and keywords extraction
+
+- [Exploring Different Keyword Extractors — Statistical Approaches](https://medium.com/gumgum-tech/exploring-different-keyword-extractors-statistical-approaches-38580770e282)
 
 ## Other
 
