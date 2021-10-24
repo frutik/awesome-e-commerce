@@ -24,6 +24,11 @@ Star, send pull requests...
 - [Detecting Image Duplicates at OLX Scale](https://tech.olx.com/detecting-image-duplicates-at-olx-scale-7f59e4b6aef4)
 - [Improving automatic product classification for e-Commerce with image recognition](https://machine-learning-company.nl/en/technical/improving-automatic-product-classification-for-e-commerce-with-image-recognition/)
 
+## Products' ratings
+
+- [How Not To Sort By Average Rating](https://www.evanmiller.org/how-not-to-sort-by-average-rating.html)
+- [Python implementation of the Wilson Score Interval](https://stackoverflow.com/questions/10029588/python-implementation-of-the-wilson-score-interval)
+
 ## Products compatibility
 
 - [Determining compatibility](https://towardsdatascience.com/determining-compatibility-b952d941c22a)
