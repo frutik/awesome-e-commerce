@@ -51,6 +51,12 @@ Star, send pull requests...
 - [https://towardsdatascience.com/keyword-extraction-python-tf-idf-textrank-topicrank-yake-bert-7405d51cd839](https://towardsdatascience.com/keyword-extraction-python-tf-idf-textrank-topicrank-yake-bert-7405d51cd839)
 - [Keyword Extraction with BERT](https://towardsdatascience.com/keyword-extraction-with-bert-724efca412ea)
 
+## Accessibility
+
+- [How To Make “Decorative” and “Functional” Images Accessible to All Users](https://baymard.com/blog/decorative-functional-image-accessibility)
+- [Accessibility for E-Commerce: 3 Best Practices For Navigational Links](https://baymard.com/blog/links-accessibility)
+
+
 ## Other
 
 - [Learn How a Knowledge Graph Can Improve Your Online Shopping Experience](https://www.alibabacloud.com/blog/learn-how-a-knowledge-graph-can-improve-your-online-shopping-experience_595668)
