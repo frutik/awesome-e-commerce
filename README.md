@@ -23,6 +23,7 @@ Star, send pull requests...
 - [Product Matching in eCommerce using deep learning](https://medium.com/walmartglobaltech/product-matching-in-ecommerce-4f19b6aebaca)
 - [Detecting Image Duplicates at OLX Scale](https://tech.olx.com/detecting-image-duplicates-at-olx-scale-7f59e4b6aef4)
 - [Improving automatic product classification for e-Commerce with image recognition](https://machine-learning-company.nl/en/technical/improving-automatic-product-classification-for-e-commerce-with-image-recognition/)
+- [“Is This You?” Entity Matching in the Modern Data Stack with Large Language models](https://towardsdatascience.com/is-this-you-entity-matching-in-the-modern-data-stack-with-large-language-models-19a730373b26)
 
 ## Products' ratings
 
