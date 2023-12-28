@@ -29,6 +29,7 @@ Star, send pull requests...
 
 - [How Not To Sort By Average Rating](https://www.evanmiller.org/how-not-to-sort-by-average-rating.html)
 - [Python implementation of the Wilson Score Interval](https://stackoverflow.com/questions/10029588/python-implementation-of-the-wilson-score-interval)
+- [Ranking Items With Star Ratings](https://www.evanmiller.org/ranking-items-with-star-ratings.html)
 
 ## Products compatibility
 
